@@ -1,0 +1,15 @@
+{
+  "name": "api_auth_example",
+  "version": "1.0.0",
+  "description": "An example of api auth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "api_auth": "0.0.2-4",
+    "restify": "^4.0.4"
+  }
+}

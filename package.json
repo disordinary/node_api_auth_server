@@ -1,6 +1,6 @@
 {
   "name": "api_auth_server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "An HMAC server compatble with: https://github.com/mgomes/api_auth",
   "main": "index.js",
   "scripts": {
@@ -29,6 +29,8 @@
     "save-dev": "^2.0.0"
   },
   "devDependencies": {
-    "mocha": "^2.4.5"
+    "api_auth": "0.0.2-4",
+    "mocha": "^2.4.5",
+    "restify": "^4.0.4"
   }
 }
